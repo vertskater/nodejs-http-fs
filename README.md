@@ -2,7 +2,7 @@
 
 ## used modules: http, fs
 
-This very basic Project should show the possible use for the nodjs http and fs modules.
+This very basic Project utilize nodes http and fs modules.
 
 ### Files
 
